@@ -1,4 +1,4 @@
-package paramrouter
+package grot
 
 import (
 	"net/http"
